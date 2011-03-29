@@ -1,0 +1,12 @@
+*.dcu
+*.ini
+*.~
+*.bdsproj
+*.cfg
+*.dproj
+*.dproj.local
+*.bdsgroup
+*.bdsgroup.local
+*.bdsproj.local
+*.exe
+*.identcache
